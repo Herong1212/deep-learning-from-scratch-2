@@ -1,4 +1,4 @@
-深度学习入门②
+深度学习入门②：自然语言处理篇(Deep Learning From Scratch 2)
 ==========================
 
 [<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch-2/images/deep-learning-from-scratch-2.png" width="200px">](https://www.oreilly.co.jp/books/9784873118369/)
